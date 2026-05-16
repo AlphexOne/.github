@@ -1,0 +1,35 @@
+- name: bug
+  color: d73a4a
+  description: Something isn't working
+
+- name: feature
+  color: 5319e7
+  description: Proposal for a new feature
+
+- name: duplicate
+  color: cfd3d7
+  decription: This issue or pull request already exists
+
+- name: help wanted
+  color: 008672
+  decription: Extra attention is needed
+
+- name: idea
+  color: fbca04
+  decription: New idea or suggestion
+
+- name: question
+  color: d876e3
+  decription: Further information is requested
+
+- name: good first issue
+  color: 7057ff
+  decription: Good for newcomers
+
+- name: documentation
+  color: cfd3d7
+  description: Dokumentation
+
+- name: task
+  color: 0e8a16
+  description: General task
